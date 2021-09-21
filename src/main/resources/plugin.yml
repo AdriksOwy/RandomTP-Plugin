@@ -1,0 +1,5 @@
+name: RandomTP
+version: ${project.version}
+main: org.apache.maven.plugins.RandomTP
+load: STARTUP
+authors: [ Adriks ]
